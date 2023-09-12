@@ -1,5 +1,9 @@
 # REPOSITORIO EN CONSTRUCCION 👋
 
+	
+*texto en cursiva*
+_texto en cursiva_
+
 <!--
 **proyecMariana/proyecMariana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
