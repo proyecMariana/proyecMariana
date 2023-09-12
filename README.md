@@ -4,6 +4,8 @@
 *texto en cursiva*
 _texto en cursiva_
 
+![Alt](https://universoabiertoblog.files.wordpress.com/2016/05/organization-1.png?w=269&h=269)
+
 <!--
 **proyecMariana/proyecMariana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
