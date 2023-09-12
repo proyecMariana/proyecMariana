@@ -6,6 +6,11 @@ _texto en cursiva_
 
 ![Alt](https://universoabiertoblog.files.wordpress.com/2016/05/organization-1.png?w=269&h=269)
 
+| Color | Código |
+| ----------- | ----------- |
+| Rojo | #FF0000 |
+| Azul | #0000FF |
+
 <!--
 **proyecMariana/proyecMariana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
